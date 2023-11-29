@@ -49,7 +49,4 @@ document.querySelectorAll("button")[i]
   }
 
     
-// const audio = new Audio();
-// audio.src = "musics/w.mp3";
-//audio.src = "musics/a.mp3";
 
